@@ -1,3 +1,13 @@
 .walrus-showing {
   display: none;
 }
+
+p {
+  cursor: pointer;
+  color: #FF19FF;
+}
+
+p:hover {
+  text-decoration: underline;
+  color: #CCFF66;
+}
