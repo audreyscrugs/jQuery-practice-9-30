@@ -2,12 +2,12 @@
   display: none;
 }
 
-p {
+.clickable {
   cursor: pointer;
   color: #FF19FF;
 }
 
-p:hover {
+.clickable:hover {
   text-decoration: underline;
   color: #CCFF66;
 }
